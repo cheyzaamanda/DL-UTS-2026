@@ -26,11 +26,19 @@ Laporan disusun berdua: setiap anggota menulis bagian dari task yang dikerjakann
 
 Pengembangan dilakukan melalui fork dan branch masing-masing sebelum digabungkan ke branch `main` repositori utama.
 
-- **PR #1 – Integrasi Task 1, Task 3 bagian Anggota 1, dan dokumentasi laporan** (oleh @cheyzaamanda): https://github.com/monicafebyana-wq/DL-UTS-2026/pull/1
+- **PR #1 – Integrasi Task 1, Task 3 bagian Anggota 1, dan dokumentasi laporan** (oleh @cheyzaamanda): https://github.com/monicafebyana-wq/DL-UTS-2026/pull/1  
   Ringkasan: Menambahkan notebook dan implementasi Task 1 (klasifikasi multimodal), integrasi Task 3 Anggota 1 dan Anggota 2, serta dokumentasi laporan UTS. Di-merge oleh @monicafebyana-wq ke `main`.
-- **PR #2 – Penghapusan dokumentasi laporan sementara** (oleh @cheyzaamanda): https://github.com/monicafebyana-wq/DL-UTS-2026/pull/2
+
+- **PR #2 – Penghapusan dokumentasi laporan sementara** (oleh @cheyzaamanda): https://github.com/monicafebyana-wq/DL-UTS-2026/pull/2  
   Ringkasan: Merapikan repositori dengan menghapus berkas dokumentasi laporan yang ditambahkan pada PR #1.
-- **Branch `task3-gambar-anggota1`** (oleh @cheyzaamanda): pengerjaan Task 3 bagian gambar (Anggota 1).
+
+- **PR #3 – Penghapusan implementasi Task 3 versi sebelumnya** (oleh @cheyzaamanda): https://github.com/monicafebyana-wq/DL-UTS-2026/pull/3  
+  Ringkasan: Menghapus implementasi Task 3 versi sebelumnya sebagai persiapan untuk pembaruan dan penambahan implementasi terbaru. Di-merge ke `main`.
+
+- **Commit – Penambahan implementasi Task 3 terbaru** (oleh @cheyzaamanda):  
+  Ringkasan: Menambahkan notebook `task3_multimodal_clustering.ipynb` ke folder `kode` pada branch `main` melalui commit langsung dengan pesan "Add updated Task 3 implementation".
+
+- **Branch `task3-gambar-anggota1`** (oleh @cheyzaamanda): Digunakan untuk pengerjaan Task 3 bagian pengolahan data gambar (Anggota 1), dengan notebook `task3_multimodal_clustering_dengan_EDA_anggota1(1).ipynb`.
 
 ## 3. Deklarasi Penggunaan AI Tools
 
